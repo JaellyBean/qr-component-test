@@ -1,0 +1,36 @@
+body {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  margin: 40px;
+  text-align: center;
+  background-color: hsl(212, 45%, 89%);
+}
+
+img {
+  padding: 15px;
+  border-radius: 30px;
+  width: 200px;
+}
+p {
+  font-size: 15px;
+  padding: 10px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+.box {
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  width: min-content;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
